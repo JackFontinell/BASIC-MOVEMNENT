@@ -3,7 +3,7 @@ from djitellopy import Tello
 tello = Tello()
 
 tello.connect()
-tello.takeoff(106.68)
+tello.takeoff()
 tello.move_up(76.2)
 
 tello.move_forward(304.8)
