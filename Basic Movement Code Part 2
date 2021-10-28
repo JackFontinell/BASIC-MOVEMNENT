@@ -28,4 +28,3 @@ sleep(1)
 tello.move_back(30.48)
 
 tello.land()
-
